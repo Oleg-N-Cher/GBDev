@@ -1,0 +1,3 @@
+#include <gb/hardware.h>
+
+#define Hardware__init()
